@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Katharina
+### new to Markdown
+###### and very new to GitHub
